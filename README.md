@@ -1,2 +1,2 @@
 # ShoppingListCheckOff-App
-Angular App
+Angular App - Coursera Single Page App Module 2
